@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+
+<color name="background">#F5F5F5</color>
+
+
+
+        <color name="warmBackground">#FFDAB9</color>
+        <color name="buttonColor">#FF6347</color> <!-- Tomato color for the button -->
+        <color name="inputBackground">#FFF5EE</color> <!-- Seashell color for input backgrounds -->
+        <!-- Define any other colors you need -->
+
+
+</resources>
